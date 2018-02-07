@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KrishiKalyan</string>
+    <string name="English_lang">English</string>
+    <string name="Hindi_lang">हिन्दी</string>
+    <string name="Gujarati_lang">ગુજરાતી</string>
+    <string name="Statement">अपनी भाषा चुने</string>
+</resources>
