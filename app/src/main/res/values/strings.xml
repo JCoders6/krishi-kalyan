@@ -4,4 +4,10 @@
     <string name="Hindi_lang">हिन्दी</string>
     <string name="Gujarati_lang">ગુજરાતી</string>
     <string name="Statement">अपनी भाषा चुने</string>
+    <string name="login">Login</string>
+    <string name="openAccount">Not have an account? Sign up</string>
+    <string name="editEmail">Enter your email</string>
+    <string name="editPass">Enter your password</string>
+    <string name="loginButton">Login</string>
+
 </resources>

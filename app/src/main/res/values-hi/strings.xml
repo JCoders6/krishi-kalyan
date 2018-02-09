@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">कृषि कल्याण</string>
     <string name="Hindi_lang"> हिन्दी</string>
     <string name="welcome">स्वागतम</string>
-    <string name="email">ईमेल पता</string>
+    <string name="editEmail">अपना ईमेल लिखें</string>
     <string name="password">पासवर्ड</string>
     <string name="login">लॉगिन</string>
-    <string name="signup">खाता नहीं है? साइन अप करें</string>
+    <string name="openAccount">खाता नहीं है? साइन अप करें</string>
+    <string name="editPass">अपना पासवर्ड लिखें</string>
+    <string name="loginButton">लॉग इन</string>
 
 </resources>
